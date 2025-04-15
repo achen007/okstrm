@@ -14,6 +14,9 @@ docker run -d \
   --restart=always \
   nurdlewang/okstrm:1.0.4
 ```
+### 视频教程
+[115网盘直链神器｜Docker秒生STRM](https://www.bilibili.com/video/BV1RGoWY3EYQ/?share_source=copy_web&vd_source=d5f838fa2ac59ef6506d03c784127ff8)
+
 
 ### ⚙️ 参数说明
 | 参数 | 必填 | 默认值 | 说明 |
@@ -23,9 +26,6 @@ docker run -d \
 | `/data` | - | 无 | strm文件存储路径 |
 
 ## 📋 使用指南
-
-### 视频教程
-[115网盘直链神器｜Docker秒生STRM](https://www.bilibili.com/video/BV1RGoWY3EYQ/?share_source=copy_web&vd_source=d5f838fa2ac59ef6506d03c784127ff8)
 
 
 
