@@ -25,9 +25,7 @@ docker run -d \
 ## 📋 使用指南
 
 ### 视频教程
-[![视频封面](https://i2.hdslb.com/bfs/archive/0522250c5b6156f8efe966abff2d48a1379822a7.jpg)](https://www.bilibili.com/video/BV1RGoWY3EYQ)
-
-
+[点击这里打开B站链接](https://www.bilibili.com/video/BV1RGoWY3EYQ){:target="_blank"}
 ### 1. 初始化扫描
 ```bash
 选择1进行网盘扫描，选择1会先返回网盘根目录，自行选择目录进行扫描
