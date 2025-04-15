@@ -10,7 +10,7 @@ docker run -d \
   -v /data/okstrm:/data \
   -p 9001:35001 \
   -e "STRM_IP=192.168.61.204" \  # 宿主机IP（必填）
-  -e "STRM_PORT=9001" \         # 宿主机端口（必填）
+  -e "STRM_PORT=9001" \         # 宿主机设置的本地端口，与上方9001相同（必填）
   --restart=always \
   nurdlewang/okstrm:1.0.4
 ```
