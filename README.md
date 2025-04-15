@@ -25,7 +25,7 @@ docker run -d \
 ## 📋 使用指南
 
 ### 视频教程
-[![视频封面](https://i2.hdslb.com/bfs/archive/0522250c5b6156f8efe966abff2d48a1379822a7.jpg@308w_174h)](https://www.bilibili.com/video/BV1RGoWY3EYQ)
+[![视频封面](https://i2.hdslb.com/bfs/archive/0522250c5b6156f8efe966abff2d48a1379822a7.jpg)](https://www.bilibili.com/video/BV1RGoWY3EYQ)
 
 
 ### 1. 初始化扫描
