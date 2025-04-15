@@ -25,7 +25,10 @@ docker run -d \
 ## 📋 使用指南
 
 ### 视频教程
-[点击这里打开B站链接](https://www.bilibili.comjj/video/BV1RGoWY3EYQ)
+[115网盘直链神器｜Docker秒生STRM](https://www.bilibili.com/video/BV1RGoWY3EYQ/?share_source=copy_web&vd_source=d5f838fa2ac59ef6506d03c784127ff8)
+
+
+
 ### 1. 初始化扫描
 ```bash
 选择1进行网盘扫描，选择1会先返回网盘根目录，自行选择目录进行扫描
