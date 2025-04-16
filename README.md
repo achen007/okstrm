@@ -14,7 +14,7 @@ docker run -d \
   --restart=always \
   nurdlewang/okstrm:1.0.4
 ```
-### 📊 视频教程
+### 📊 视频教程（B站）
 [115网盘直链神器｜Docker秒生STRM](https://www.bilibili.com/video/BV1RGoWY3EYQ/?share_source=copy_web&vd_source=d5f838fa2ac59ef6506d03c784127ff8)
 
 
