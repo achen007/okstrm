@@ -12,7 +12,7 @@ docker run -d \
   -e "STRM_IP=192.168.61.204" \  # 宿主机IP（必填）
   -e "STRM_PORT=9001" \         # 上面设置的本地端口，即9001（必填）
   --restart=always \
-  nurdlewang/okstrm:1.0.5
+  nurdlewang/okstrm:latest
 ```
 ### 📊 视频教程（B站）
 [115网盘直链神器｜Docker秒生STRM](https://www.bilibili.com/video/BV1RGoWY3EYQ/?share_source=copy_web&vd_source=d5f838fa2ac59ef6506d03c784127ff8)
