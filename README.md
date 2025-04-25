@@ -30,7 +30,10 @@ docker run -d \
 
 1. **在云上部署okstrm，如何生成https的直链？**
    - okstrm并不直接支持，如果用nginx反代okstrm并配置了https域名。可以通过 STRM_TYPE指定https或是http，STRM_IP指定域名，STRM_PORT指定端口
-2. **1.0.8开始okstrm运行缓存存储与/data/cache.db，如果发生迁移、重新部署、升级等情况，可直接迁移cache.db到相应位置**
+
+2. **1.0.8开始okstrm运行缓存存储于/data/cache.db，如果发生迁移、重新部署、升级等情况，可直接迁移cache.db到相应位置**
+
+
 
 | 容器内部端口 | 必填 | 说明 |
 |------|------|------|
