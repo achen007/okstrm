@@ -11,6 +11,7 @@ docker run -d \
   -p 9001:35001 \   # okstrm服务接口（必填）
   -p 35002:35002 \   # 反代emby的接口（选填）
   -p 35003:35003 \   # 反代jellyfin的接口（选填）
+  -e "STRM_TYPE=http" \  # 生成的strm的协议（选填，https/https）
   -e "STRM_IP=192.168.61.204" \  # 宿主机IP（必填）
   -e "STRM_PORT=9001" \         # 上面设置的本地端口，即9001（必填）
   --restart=always \
