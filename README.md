@@ -12,7 +12,7 @@ docker run -d \
   -p 35002:35002 \   # 反代emby的接口（选填）
   -p 35003:35003 \   # 反代jellyfin的接口（选填）
   --restart=always \
-  nurdlewang/okstrm:latest
+  nurdlewang/okstrm:1.0.13
 ```
 ### 📊 视频教程（B站）
 [115网盘直链神器｜Docker秒生STRM](https://www.bilibili.com/video/BV1RGoWY3EYQ/?share_source=copy_web&vd_source=d5f838fa2ac59ef6506d03c784127ff8)
@@ -78,6 +78,7 @@ docker run -d \
 
 
 # 更新日志
+## v1.0.13 - 2025-05-21
 ## v1.0.12 - 2025-05-20
 ## v1.0.11 - 2025-05-07
 ## v1.0.10 - 2025-05-07
