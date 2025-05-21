@@ -16,6 +16,7 @@ docker run -d \
 ```
 
 ```bash
+compose方式
 version: '3.8'
 
 services:
