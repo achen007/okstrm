@@ -47,7 +47,7 @@ services:
 ### ⚙️ 参数说明
 | 参数 | 必填 | 默认值 | 说明 |
 |------|------|--------|------|
-| `/data` | 是 | 无 | strm文件存储路径 |
+| `/data` | 是 | 无 | config和strm文件存储路径 |
 
 1. **在云上部署okstrm，如何生成https的直链？**
    - okstrm并不直接支持，如果用nginx反代okstrm并配置了https域名。可以通过 STRM_TYPE指定https或是http，STRM_IP指定域名，STRM_PORT指定端口
