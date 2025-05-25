@@ -2,6 +2,9 @@
 
 基于 115 开放平台，使用一个 Docker 镜像即可实现网盘扫描、STRM 文件生成，并实时获取直链供媒体库调用。
 
+## 📋 使用文档
+https://docs.qq.com/aio/DZXhwTVZETGtUYVpQ?p=9QcfFmIAIFgG8F4G8E3cRJ
+
 ## 🐳 快速部署
 
 ### ✅ 方法一：使用 docker run
@@ -64,6 +67,3 @@ services:
 | `35003` | 否 | 反代jellyfin的端口 |
 
 
-## 📋 使用文档
-
-https://docs.qq.com/aio/DZXhwTVZETGtUYVpQ?p=9QcfFmIAIFgG8F4G8E3cRJ
