@@ -16,7 +16,7 @@ docker run -d \
   -p 35002:35002 \   # 反代emby的接口（选填）
   -p 35003:35003 \   # 反代jellyfin的接口（选填）
   --restart=always \
-  nurdlewang/okstrm:1.0.28
+  nurdlewang/okstrm:1.0.35
 ```
 
 ### ✅ 方法二：使用 docker-compose
@@ -27,7 +27,7 @@ version: '3.8'
 services:
   okstrm:
     container_name: okstrm
-    image: nurdlewang/okstrm:1.0.28
+    image: nurdlewang/okstrm:1.0.35
     restart: always
     ports:
       - "35001:35001"
